@@ -14,7 +14,7 @@ FREE SUCCESSFUL ID CLONING COMMAND BY AKASH~AS
 
 - `pip install mechanize`
 
-- `rm -rf AKING-PRO`
+- `rm -rf RANDOM`
 
 - `git clone --depth=1 https://github.com/AKASH-CYBER-143/RANDOM.git.git`
 
