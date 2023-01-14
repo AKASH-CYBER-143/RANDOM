@@ -16,7 +16,7 @@ FREE SUCCESSFUL ID CLONING COMMAND BY AKASH~AS
 
 - `rm -rf RANDOM`
 
-- `git clone --depth=1 https://github.com/AKASH-CYBER-143/RANDOM.git.git`
+- `git clone --depth=1 https://github.com/AKASH-CYBER-143/RANDOM.git`
 
 - `cd RANDOM`
 
