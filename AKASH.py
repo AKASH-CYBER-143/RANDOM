@@ -1,2 +1,2 @@
-import test()
+import test
 test.main_menu()
