@@ -1,2 +1,2 @@
-import test
-test.main_menu()
+import fxr
+
